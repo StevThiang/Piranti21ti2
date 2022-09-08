@@ -1,3 +1,4 @@
 products
 rhf4
-2gd
+2GD
+1GD Hybrid
