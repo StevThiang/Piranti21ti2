@@ -1,0 +1,3 @@
+warna merah
+potnya 5
+potnya 6
